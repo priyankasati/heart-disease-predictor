@@ -37,7 +37,7 @@ if not st.session_state.get("logged_in", False):
 
     st.title("Heart Disease Prediction System")
 
-    menu = st.radio("", ["Login", "Register"], horizontal=True)
+    menu = st.radio("Navigation", ["Login", "Register"], horizontal=True, label_visibility="collapsed")
 
     if menu == "Register":
         st.subheader("Create Account")
