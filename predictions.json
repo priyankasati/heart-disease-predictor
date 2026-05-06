@@ -1,0 +1,29 @@
+[
+    {
+        "user": "shreya",
+        "name": "shreya",
+        "age": 50,
+        "bmi": 25.71,
+        "risk": "Low",
+        "prob": 0.2541409730911255,
+        "time": "2026-05-06 15:26:33"
+    },
+    {
+        "user": "shreya",
+        "name": "shreya",
+        "age": 35,
+        "bmi": 25.71,
+        "risk": "Low",
+        "prob": 0.10862412303686142,
+        "time": "2026-05-06 17:28:20"
+    },
+    {
+        "user": "kamlesh123",
+        "name": "kamlesh singh",
+        "age": 50,
+        "bmi": 26.61,
+        "risk": "Moderate",
+        "prob": 0.6875114440917969,
+        "time": "2026-05-06 17:30:53"
+    }
+]

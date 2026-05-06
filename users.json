@@ -1,0 +1,17 @@
+{
+    "akash": "12345",
+    "rita": "rita",
+    "shreya": {
+        "name": "shreya patel",
+        "password": "123",
+        "created_at": "2026-05-06"
+    },
+    "ridha": {
+        "name": "ridha",
+        "password": "123"
+    },
+    "kamlesh123": {
+        "name": "kamlesh singh",
+        "password": "12345"
+    }
+}
